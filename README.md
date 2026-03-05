@@ -115,8 +115,8 @@ class JaimeLeon:
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pIojeZ0I/giphy.gif" width="300" alt="hacking" />
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="dev" />
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="300" alt="hacking" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="dev" />
 </div>
 
 ---
