@@ -126,7 +126,7 @@ class JaimeLeon:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-jaime0609-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaime0609)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaime_León-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Instagram](https://img.shields.io/badge/Instagram-Jaime_León-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 [![Email](https://img.shields.io/badge/Email-contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 
 </div>
