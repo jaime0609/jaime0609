@@ -67,6 +67,10 @@ class JaimeLeon:
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
+  <img src="https://github.com/jaime0609.png" width="120" style="border-radius:50%" alt="Jaime León" />
+</div>
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaime0609&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaime0609&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
@@ -82,14 +86,14 @@ class JaimeLeon:
 ### 🏆 Trofeos
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaime0609&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaime0609&theme=radical&no-frame=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ### 📈 Actividad
 <div align="center">
 
-[![Jaime's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaime0609&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jaime's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaime0609&bg_color=1a1b27&color=628fdb&line=714B67&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -99,7 +103,7 @@ class JaimeLeon:
 
 | 🔧 Área | 💡 Lo que hago |
 |---|---|
-| **Odoo 15 / 19** | Módulos custom, migraciones, integraciones hardware, OWL components |
+| **Odoo 15 / 19** | Módulos custom, migraciones, integraciones DIAN, OWL components |
 | **Reportes QWeb** | PDF con tablas de control dimensional, etiquetas Zebra, certificados de calidad |
 | **PostgreSQL** | Optimización de consultas, índices, segmentación de usuarios, pg_hba |
 | **Seguridad** | Hardening de servidores, fail2ban, Nginx, SSH CVE mitigation |
@@ -126,8 +130,8 @@ class JaimeLeon:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-jaime0609-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaime0609)
-[![Instagram](https://img.shields.io/badge/Instagram-Jaime_León-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/](https://www.instagram.com/xjaime6/))
-[![Email](https://img.shields.io/badge/Email-contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimeleon@eyesa.com.co)
+[![Instagram](https://img.shields.io/badge/Instagram-Jaime_León-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Email](https://img.shields.io/badge/Email-contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 
 </div>
 
