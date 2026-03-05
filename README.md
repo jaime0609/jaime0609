@@ -19,9 +19,9 @@ class JaimeLeon:
         self.nombre      = "Jaime León"
         self.rol         = "Desarrollador Odoo & Técnico de Software"
         self.empresa     = "EYESA / I-Tech Soluciones Empresariales"
-        self.ubicacion   = "Colombia 🇨🇴"
+        self.ubicacion   = "Bogota, Colombia"
         self.educacion   = "Técnico en Desarrollo de Software – CENSA"
-        self.odoo        = ["Odoo 15", "Odoo 19", "Módulos custom", "QWeb", "OWL"]
+        self.odoo        = ["Odoo 19", "Módulos custom", "QWeb", "OWL"]
         self.bases_datos = ["PostgreSQL", "XML-RPC", "ORM Odoo"]
         self.intereses   = ["Ciberseguridad", "Linux", "ERP", "Backend", "DIAN"]
 
