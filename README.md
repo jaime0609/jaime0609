@@ -18,12 +18,12 @@ class JaimeLeon:
     def __init__(self):
         self.nombre      = "Jaime León"
         self.rol         = "Desarrollador Odoo & Técnico de Software"
-        self.empresa     = "EYESA / I-Tech Soluciones Empresariales"
-        self.ubicacion   = "Bogota, Colombia"
+        self.empresa     = "Empaquetaduras y empaques"
+        self.ubicacion   = "Medellín, Colombia"
         self.educacion   = "Técnico en Desarrollo de Software – CENSA"
         self.odoo        = ["Odoo 19", "Módulos custom", "QWeb", "OWL"]
         self.bases_datos = ["PostgreSQL", "XML-RPC", "ORM Odoo"]
-        self.intereses   = ["Ciberseguridad", "Linux", "ERP", "Backend", "DIAN"]
+        self.intereses   = ["Ciberseguridad", "Linux", "ERP", "Backend"]
 
     def saludo(self):
         return "¡Siempre aprendiendo algo nuevo cada día! 🚀"
