@@ -99,7 +99,7 @@ class JaimeLeon:
 
 | 🔧 Área | 💡 Lo que hago |
 |---|---|
-| **Odoo 15 / 19** | Módulos custom, migraciones, integraciones DIAN, OWL components |
+| **Odoo 15 / 19** | Módulos custom, migraciones, integraciones hardware, OWL components |
 | **Reportes QWeb** | PDF con tablas de control dimensional, etiquetas Zebra, certificados de calidad |
 | **PostgreSQL** | Optimización de consultas, índices, segmentación de usuarios, pg_hba |
 | **Seguridad** | Hardening de servidores, fail2ban, Nginx, SSH CVE mitigation |
